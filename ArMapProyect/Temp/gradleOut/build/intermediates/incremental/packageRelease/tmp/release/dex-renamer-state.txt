@@ -1,0 +1,4 @@
+#Tue Oct 29 05:52:55 CST 2019
+base.0=C\:\\Users\\danie\\Desktop\\Proyecto Hackthon 2019\\ArMapProyect\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
