@@ -344,6 +344,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 208036122}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &284038388 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
@@ -384,6 +385,14 @@ Material:
     m_Floats: []
     m_Colors:
     - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
+=======
+--- !u!1 &221806440 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 807185567}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> Tarea2
 --- !u!1 &397526089
 GameObject:
   m_ObjectHideFlags: 0
@@ -398,6 +407,7 @@ GameObject:
   - component: {fileID: 397526093}
   - component: {fileID: 397526092}
   - component: {fileID: 397526091}
+  - component: {fileID: 397526096}
   m_Layer: 0
   m_Name: ImageTarget
   m_TagString: Untagged
@@ -439,7 +449,11 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 397526089}
+<<<<<<< HEAD
   m_Mesh: {fileID: 1767229196}
+=======
+  m_Mesh: {fileID: 821998504}
+>>>>>>> Tarea2
 --- !u!23 &397526092
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -457,7 +471,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 315118607}
+=======
+  - {fileID: 758805279}
+>>>>>>> Tarea2
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -521,7 +539,30 @@ MonoBehaviour:
   mImageTargetType: 0
   mWidth: 10
   mHeight: 6.7299995
+<<<<<<< HEAD
 --- !u!1001 &406760334
+=======
+--- !u!114 &397526096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 397526089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb36a6ad601b1d4b88d1dc1f1e9e880, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  letreroAzul1: {fileID: 861433764}
+  letreroAzul2: {fileID: 1745567269}
+  letreroAzul3: {fileID: 221806440}
+  letreroAzul4: {fileID: 823469001}
+  letreroRojo1: {fileID: 1318185068}
+  letreroRojo2: {fileID: 1997001594}
+  letreroRojo3: {fileID: 1119369113}
+--- !u!1001 &645417580
+>>>>>>> Tarea2
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -711,6 +752,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2093852611}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &536662972 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
@@ -725,10 +767,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &536662974
 MonoBehaviour:
+=======
+--- !u!21 &758805279
+Material:
+  serializedVersion: 6
+>>>>>>> Tarea2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 536662972}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -744,6 +792,30 @@ MonoBehaviour:
   btn7: {fileID: 503960181}
   btnCentral: {fileID: 536662972}
 --- !u!1001 &645417580
+=======
+  m_Name: '68559282_1094462914248355_64160854282600448_nMaterial
+
+    13106'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3ee44d93ceae4d94b27a46625579dd0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
+--- !u!1001 &768665932
+>>>>>>> Tarea2
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -841,6 +913,7 @@ Transform:
 --- !u!1 &700527791
 GameObject:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -998,6 +1071,8 @@ Transform:
 --- !u!1001 &720777766
 PrefabInstance:
   m_ObjectHideFlags: 0
+=======
+>>>>>>> Tarea2
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 397526090}
@@ -1005,22 +1080,38 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
       propertyPath: m_Name
+<<<<<<< HEAD
       value: LetreroRojo3
+=======
+      value: LetrroAzul3
+>>>>>>> Tarea2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
       propertyPath: m_LocalPosition.x
+<<<<<<< HEAD
       value: -0.2041
+=======
+      value: -0.324
+>>>>>>> Tarea2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< HEAD
       value: 0.0558
+=======
+      value: 0.0679
+>>>>>>> Tarea2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< HEAD
       value: 0.0836
+=======
+      value: -0.095
+>>>>>>> Tarea2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
@@ -1090,7 +1181,180 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 720777766}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &768665932
+=======
+--- !u!43 &821998504
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ImageTargetMesh13094
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 6
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.5, y: 0, z: 0.3365}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200020001000300
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 4
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 128
+    _typelessdata: 000000bf00000000ba49acbe000000000000803f000000000000000000000000000000bf00000000ba49ac3e000000000000803f00000000000000000000803f0000003f00000000ba49acbe000000000000803f000000000000803f000000000000003f00000000ba49ac3e000000000000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.5, y: 0, z: 0.3365}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!1 &823469001 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1208462912}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &832990828
+>>>>>>> Tarea2
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1185,7 +1449,23 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 768665932}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &807185567
+=======
+--- !u!1 &861433764 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 645417580}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1119369113 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 720777766}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1141510906
+>>>>>>> Tarea2
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2102,7 +2382,11 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
       propertyPath: m_Name
+<<<<<<< HEAD
       value: BtnTelefono
+=======
+      value: LetrroAzul4
+>>>>>>> Tarea2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1034f4c4799f5034ea08da73073c20b5,
         type: 3}
@@ -2181,6 +2465,21 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 408395cef057cd546aafe088b36be69d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1034f4c4799f5034ea08da73073c20b5, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!4 &1208462913 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1208462912}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1318185068 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 768665932}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> Tarea2
 --- !u!1001 &1437409786
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2443,6 +2742,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1482558915}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1562490584
 GameObject:
   m_ObjectHideFlags: 0
@@ -2525,6 +2825,14 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562490584}
   m_CullTransparentMesh: 0
+=======
+--- !u!1 &1745567269 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 208036122}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> Tarea2
 --- !u!1001 &1764337912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2656,6 +2964,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1764337912}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!43 &1767229196
 Mesh:
   m_ObjectHideFlags: 0
@@ -2819,6 +3128,14 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+--- !u!1 &1997001594 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 1034f4c4799f5034ea08da73073c20b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 832990828}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> Tarea2
 --- !u!1001 &2078907546
 PrefabInstance:
   m_ObjectHideFlags: 0
